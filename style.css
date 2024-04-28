@@ -1,7 +1,7 @@
 body {
     font-family: "Caveat", cursive;
-    line-height: 1;
-    margin-top: 40px;
+    line-height: 1.4;
+    margin-top: 50px;
     background-color: #3c6e71;
 }
 
@@ -18,7 +18,7 @@ body {
 h1{
     text-align: center;
     color: #284b63;
-    font-size: 48px;
+    font-size: 56px;
 }
 
 p, .idlocal{
