@@ -1,0 +1,37 @@
+body {
+    font-family: "Caveat", cursive;
+    line-height: 1;
+    margin-top: 40px;
+    background-color: #3c6e71;
+}
+
+.container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    border: none;
+    box-shadow: 0 0 5px 5px #353535;
+    border-radius: 10px;
+    background-color: #d9d9d9;
+}
+
+h1{
+    text-align: center;
+    color: #284b63;
+    font-size: 48px;
+}
+
+p, .idlocal{
+    margin-bottom: 20px;
+}
+
+p {
+    margin-top: 20px;
+    font-size: 24px;
+}
+
+.footer {
+    text-align: center;
+    margin-top: 20px;
+    font-style: italic;
+}
